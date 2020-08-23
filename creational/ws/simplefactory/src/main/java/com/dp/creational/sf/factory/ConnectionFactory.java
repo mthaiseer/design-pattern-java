@@ -16,7 +16,7 @@ public class ConnectionFactory {
 			return new LDAPConnection();
 			
 		default:
-			throw new IllegalArgumentException("Unknow type");
+			throw new IllegalArgumentException("Unknown type");
 		}
 		
 		
