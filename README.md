@@ -22,3 +22,6 @@
  - Object Pool pattern 
     - Object instantiation is expensive then this pattern creates a pool of instances. client recieve object from pool and return to pool once client release the same 
     - once object runs out-of-stock, creating new object to pool or put client into queue need to be considered
+    
+ - Prototype pattern 
+    - This pattern create new object using clone method. Client get new object with resetted internal object state 
