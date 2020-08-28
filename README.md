@@ -2,7 +2,7 @@
 
 ### Creational design pattern
  - Builder pattern 
-    - A calls contains number of constructors with different parameters to instantiate. Such situation builder pattern is use  ful. Builder pattern will build object part by part
+    - A calls contains number of constructors with different parameters to instantiate. Such situation builder pattern is useful. Builder pattern will build object part by part
     
  - Simple Factory pattern 
     - All sub classes are known in advance, also need to create at runtime by passing parameters, this pattern is useful
